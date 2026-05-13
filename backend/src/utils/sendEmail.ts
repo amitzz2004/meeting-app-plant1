@@ -39,7 +39,7 @@ export const sendApprovalEmail = async (email: string, name: string) => {
                   <tr>
                     <td style="background: #0b2c4a; padding: 36px 48px;">
                       <p style="margin:0; color:#0EA5E9; font-size:20px; font-weight:700; letter-spacing:2px;">DEE PIPING SYSTEM</p>
-                      <p style="margin:6px 0 0; color:rgba(255,255,255,0.45); font-size:12px;">INHOUSE MEETING ROOM BOOKING PLATFORM</p>
+                      <p style="margin:6px 0 0; color:rgba(255,255,255,0.45); font-size:12px;">INHOUSE MEETING ROOM BOOKING PLATFORM PLANT 1</p>
                     </td>
                   </tr>
                   <tr>
@@ -57,11 +57,11 @@ export const sendApprovalEmail = async (email: string, name: string) => {
                       <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
                         <tr>
                           <td align="center">
-                            <a href="https://deemeetingsplant2.deepiping.com/"
+                            <a href="https://deemeetingsplant1.deepiping.com/"
                                style="display:inline-block; background:#0b2c4a; color:#ffffff; 
                                       padding:16px 48px; border-radius:8px; font-size:15px; 
                                       font-weight:600; text-decoration:none;">
-                              Login to DEE Piping System →
+                              Login to DEE inhouse meeting room booking platform(Plant 1) →
                             </a>
                           </td>
                         </tr>
@@ -198,7 +198,7 @@ export const sendBookingNotificationToAdmin = async (
                       <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
                         <tr>
                           <td align="center">
-                            <a href="https://deemeetingsplant2.deepiping.com/"
+                            <a href="https://deemeetingsplant1.deepiping.com/"
                                style="display:inline-block; background:#0b2c4a; color:#ffffff; 
                                       padding:16px 48px; border-radius:8px; font-size:15px; 
                                       font-weight:600; text-decoration:none;">
@@ -331,7 +331,7 @@ export const sendMeetingApprovedEmail = async (
                       <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
                         <tr>
                           <td align="center">
-                            <a href="https://deemeetingsplant2.deepiping.com/"
+                            <a href="https://deemeetingsplant1.deepiping.com/"
                                style="display:inline-block; background:#0b2c4a; color:#ffffff; 
                                       padding:16px 48px; border-radius:8px; font-size:15px; 
                                       font-weight:600; text-decoration:none;">
@@ -465,7 +465,7 @@ export const sendMeetingRejectedEmail = async (
                       <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
                         <tr>
                           <td align="center">
-                            <a href="https://deemeetingsplant2.deepiping.com/"
+                            <a href="https://deemeetingsplant1.deepiping.com/"
                                style="display:inline-block; background:#0b2c4a; color:#ffffff; 
                                       padding:16px 48px; border-radius:8px; font-size:15px; 
                                       font-weight:600; text-decoration:none;">
